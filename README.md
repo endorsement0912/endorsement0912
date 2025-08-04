@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=EDC6CC&height=230&text=Leeseo's%20GitHub🍒🧸&desc=Little%20dev,%20big%20dreams%20🚀☁&fontColor=363636&fontSize=40&descSize=15)
 🔄 마지막 업데이트: 2025-08-04 16:41:05 (KST)
 
+<br>
+
 <!--LAST_UPDATED-->
 
 <!--Body-->
@@ -95,4 +97,3 @@
 - 💪 Opened PR [#304](https://github.com/prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE/pull/304) in **prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE**
 <!--END_SECTION:activity-->
 
-🔄 마지막 업데이트: 2025-08-04 16:38:19
