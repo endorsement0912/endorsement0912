@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=EDC6CC&height=230&text=Leeseo's%20GitHub🍒🧸&desc=Little%20dev,%20big%20dreams%20🚀☁&fontColor=363636&fontSize=40&descSize=15)
 
 <!--Body-->
-<div>
 
 ## 👀 About Me
 #### 🙋🏻‍♀️ 만드는 걸 좋아하던 어린 시절의 제가, 지금은 백엔드 시스템을 설계하며 즐거움을 느끼고 있어요 ☺️
@@ -76,7 +75,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:ef032550@naver.com)
 
 <br>
-</div>
 
 ## 🔁 Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=endorsement0912&show_icons=true&theme=dracula&rank_icon=github" height="180px"/>
