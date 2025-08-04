@@ -82,7 +82,7 @@
 ## 🔁 Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=endorsement0912&show_icons=true&theme=dracula&rank_icon=github" height="180px"/>
 
-#### 📌 Recent GitHub Activity
+### 📌 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 - 🎉 Merged PR [#310](https://github.com/prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE/pull/310) in **prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE**
@@ -91,5 +91,5 @@
 - 🎉 Merged PR [#304](https://github.com/prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE/pull/304) in **prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE**
 - 💪 Opened PR [#304](https://github.com/prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE/pull/304) in **prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE**
 <!--END_SECTION:activity-->
-n
+
 🔄 마지막 업데이트: 2025-08-04 16:38:19
