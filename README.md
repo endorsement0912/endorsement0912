@@ -36,8 +36,11 @@
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <!--JPA-->
 <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white"/>
-<!--MyBatis-->
-<img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white"/>
+<!--Spring Security-->
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+<!--QueryDSL-->
+<img src="https://img.shields.io/badge/QueryDSL-000000?style=flat-square&logo=apachemaven&logoColor=white"/>
+
 <br/>
 
 ### Tools & Platforms
@@ -49,10 +52,16 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <!--MySQL-->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<!--PostgreSQL-->
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
-<!--Redis-->
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+<!--IntelliJ-->
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+<!--VS Code-->
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<!--Eclipse-->
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
+<!--DBeaver-->
+<img src="https://img.shields.io/badge/DBeaver-372923?style=flat-square&logo=dbeaver&logoColor=white"/>
+<!--Postman-->
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 <!--GCP-->
 <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
 <!--GCS-->
