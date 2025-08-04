@@ -17,4 +17,3 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@v0.2.0
         with:
           USERNAME: endorsement0912
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
