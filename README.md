@@ -8,6 +8,7 @@
 #### 📓 도구에만 의존하지 않고, 기초부터 제대로 이해하는 개발자가 되기 위해 매일 조금씩 성장 중입니다 🌱
 <br>
 
+<div>
 ## 🧱 Tech Stack
 
 ### Language
@@ -75,11 +76,13 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:ef032550@naver.com)
 
 <br>
+</div>
 
 ## 🔁 Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=endorsement0912&show_icons=true&theme=dracula&rank_icon=github" height="180px"/>
 
 <h4>📌 Recent GitHub Activity</h4>
+
 <!--START_SECTION:activity-->
 - 🎉 Merged PR [#310](https://github.com/prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE/pull/310) in **prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE**
 - 🎉 Merged PR [#307](https://github.com/prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE/pull/307) in **prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE**
