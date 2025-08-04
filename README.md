@@ -76,10 +76,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:ef032550@naver.com)
 
 <br>
+</div>
 
 ## 🔁 Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=endorsement0912&show_icons=true&theme=dracula&rank_icon=github" height="180px"/>
-</div>
+
 <h4>📌 Recent GitHub Activity</h4>
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#310](https://github.com/prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE/pull/310) in **prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE**
