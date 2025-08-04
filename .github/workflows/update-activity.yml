@@ -22,10 +22,10 @@ jobs:
         with:
           USERNAME: endorsement0912
 
-      - name: Insert last updated time after activity section
+      - name: Insert last updated time at top
         run: |
           TIME=$(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M:%S')
-          sed -i "/<!--END_SECTION:activity-->/a\\n\\n🔄 마지막 업데이트: $TIME" README.md
+          sed -i "s|<!--LAST_UPDATED-->|🔄 마지막 업데이트: $TIME \(KST\)\n\n<!--LAST_UPDATED-->|g" README.md
 
       - name: Commit & Push
         run: |
