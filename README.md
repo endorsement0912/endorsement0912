@@ -87,6 +87,11 @@
     <td>
       <h4>📌 Recent GitHub Activity</h4>
       <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#310](https://github.com//prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE/pull/310) in [prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE](https://github.com//prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE)
+2. 🎉 Merged PR [#307](https://github.com//prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE/pull/307) in [prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE](https://github.com//prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE)
+3. 🎉 Merged PR [#305](https://github.com//prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE/pull/305) in [prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE](https://github.com//prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE)
+4. 🎉 Merged PR [#304](https://github.com//prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE/pull/304) in [prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE](https://github.com//prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE)
+5. 💪 Opened PR [#304](https://github.com//prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE/pull/304) in [prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE](https://github.com//prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE)
       <!--END_SECTION:activity-->
     </td>
   </tr>
