@@ -94,10 +94,10 @@
 ### 📌 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- 🎉 Merged PR [#310](https://github.com/prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE/pull/310) in **prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE**
-- 🎉 Merged PR [#307](https://github.com/prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE/pull/307) in **prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE**
-- 🎉 Merged PR [#305](https://github.com/prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE/pull/305) in **prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE**
-- 🎉 Merged PR [#304](https://github.com/prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE/pull/304) in **prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE**
-- 💪 Opened PR [#304](https://github.com/prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE/pull/304) in **prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE**
+- 💪 Labeled PR [#304](undefined) in **prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE**
+- 💪 Opened PR [#304](undefined) in **prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE**
+- 💪 Assigned PR [#304](undefined) in **prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE**
+- 💪 Labeled PR [#302](undefined) in **prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE**
+- 💪 Opened PR [#302](undefined) in **prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE**
 <!--END_SECTION:activity-->
 
