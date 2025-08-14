@@ -94,10 +94,10 @@
 ### 📌 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+❗ Opened issue [#319](https://github.com/prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE/issues/319) in [prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE](https://github.com/prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE)
+🔒 Closed issue [#317](https://github.com/prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE/issues/317) in [prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE](https://github.com/prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE)
+- 💪 Closed PR [#318](https://github.com/prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE/pull/318) in **prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE**
 - 💪 Opened PR [#318](https://github.com/prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE/pull/318) in **prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE**
 ❗ Opened issue [#317](https://github.com/prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE/issues/317) in [prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE](https://github.com/prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE)
-- 🎉 Merged PR [#310](https://github.com/prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE/pull/310) in **prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE**
-- 🎉 Merged PR [#307](https://github.com/prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE/pull/307) in **prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE**
-- 🎉 Merged PR [#305](https://github.com/prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE/pull/305) in **prgrms-web-devcourse-final-project/WEB5_6_NeogulCoder_BE**
 <!--END_SECTION:activity-->
 
